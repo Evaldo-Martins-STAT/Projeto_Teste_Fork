@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Modelo Para Controle de Version de Projetos (Clonar e/ou Bifurcar (Fork)) 
+# Modelo Para Controle de Version de Projetos (Clonar e/ou Bifurcar (Fork))
 
 <!-- badges: start -->
 
@@ -238,7 +238,7 @@ Ele dá uma mensagem de erro quando criamos uma branch nova. Copie a sugestão d
 
 -   Verifique agora no Github as duas versões do arquivo de texto em cada uma das branches, ou seja, `textos` e `master`.
 
--   É preciso, então, realizar a MESCLAGEM da `textos` para a `master`. Se vc for o mantendedor do projeto, volte ao terminal do Rstudio e digitEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+-   É preciso, então, realizar a MESCLAGEM da `textos` para a `master`. Se vc for o mantendedor do projeto, volte ao terminal do Rstudio e digite:
 
 `git branch`
 
@@ -374,7 +374,7 @@ Caso aconteça algum erro, é possível voltar ao momento anterior às modifica�
 
 Para criar o Readme.rmd usei a função `usethis::use_readme_rmd()` . O que é especial sobre usar o `README.Rmd` em vez de apenas o `README.md`?
 
-Você pode incluir chunks como este:
+Res.: Você pode incluir chunks como este:
 
 ```{r cars}
 summary(cars)

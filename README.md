@@ -314,7 +314,7 @@ sugestão de comando e execute novamente.
 
 - É preciso, então, realizar a MESCLAGEM da `textos` para a `master`. Se
   vc for o mantendedor do projeto, volte ao terminal do Rstudio e
-  digitEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+  digite:
 
 `git branch`
 
@@ -510,7 +510,7 @@ with git and GitHub](https://www.youtube.com/watch?v=DnwEaa5QtpI)
 Para criar o Readme.rmd usei a função `usethis::use_readme_rmd()` . O
 que é especial sobre usar o `README.Rmd` em vez de apenas o `README.md`?
 
-Você pode incluir chunks como este:
+Res.: Você pode incluir chunks como este:
 
 ``` r
 summary(cars)
