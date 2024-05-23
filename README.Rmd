@@ -168,15 +168,15 @@ pr_init(branch = "ajuda_grafico1")
 
 **Cadastre seu nome e endereço de e-mail abaixo:**
 
-| \#  |          Nome           |         e-mail         |
-|:---:|:-----------------------:|:----------------------:|
-|  1  | Evaldo Martins da Silva | evaldomartins\@ufpa.br |
-|  2  |                         |                        |
-|  3  |                         |                        |
-|  4  |                         |                        |
-|  5  |                         |                        |
-|  6  |                         |                        |
-|  7  |                         |                        |
+| \#  |              Nome               |           e-mail           |
+|:---:|:-------------------------------:|:--------------------------:|
+|  1  |     Evaldo Martins da Silva     |   evaldomartins\@ufpa.br   |
+|  2  | Rayane Leticia Furtado Pinheiro | rayanefurtado63\@gmail.com |
+|  3  |                                 |                            |
+|  4  |                                 |                            |
+|  5  |                                 |                            |
+|  6  |                                 |                            |
+|  7  |                                 |                            |
 
 : Lista de Colaboradores do ProjetoRepositório
 
